@@ -1,0 +1,30 @@
+{
+  "name": "salt-water-taffy",
+  "displayName": "Salt Water Taffy",
+  "description": "Ocean colors with a sweet tooth",
+  "version": "0.0.1",
+  "publisher": "radiolevity",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radiolevity/salt-water-taffy"
+  },
+  "galleryBanner": {
+    "color": "#232A30",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Salt Water Taffy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/salt-water-taffy-color-theme.json"
+      }
+    ]
+  }
+}
