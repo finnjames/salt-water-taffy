@@ -1,28 +1,28 @@
-# neofloss
+# salt water taffy
 
 ## base
 
-base03 (bg)       #1C1B1D
-base02            #282529
-base01            #322D33
+base03            #1E2429
+base02 (bg)       #282529
+base01            #2D353D
 base0             #4B3F4D
-base1  (comment)  #695A6B
-base2  (fg)       #D8B2DE
-base3  (btwhite)  #FAD6FF
+base1             #546B75
+base2  (fg)       #CBD6C9
+base3             #F6FFF5
 
 ## highlight colors
 
-yellow            #EA5594
-  light yellow      #FF90BF
-red               #D168D7
-  light red         #EF9CF4
-magenta           #8B70DA
-  light magenta     #BEA7FF
-cyan              #60C2E0
-  light cyan        #A4EAFF
-blue              #7497E6
-  light blue        #AAC4FF
-green             #44D1B9
-  light green       #9AF9E9
+yellow            #8CC29E
+  light yellow      #AEEBC3
+red               #C97DAC
+  light red         #DBA7CD
+magenta           #A189BD
+  light magenta     #CBB6E3
+blue              #92ABD6
+  light blue        #B9D1FA
+cyan              #62BACC
+  light cyan        #A9E0EB
+green             #7DBDA1
+  light green       #A9DEC3
 
-alert             #DA1173
+alert             #CEFFA3
