@@ -2,7 +2,7 @@
 
 ## base
 
-base03            #192329
+base03            #1A2025
 base02 (bg)       #1F272E
 base01            #2A353D
 base0             #445057

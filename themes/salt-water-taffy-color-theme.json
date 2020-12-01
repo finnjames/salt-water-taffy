@@ -164,7 +164,6 @@
     "statusBar.debuggingForeground": "#1F272E",
     "tab.activeBackground": "#1F272E",
     "tab.activeForeground": "#A9E0EB",
-    "tab.border": "#1F272E",
     "tab.inactiveBackground": "#1F272E",
     "tab.inactiveForeground": "#445057",
     "tab.unfocusedActiveForeground": "#CBD6C9AA",
@@ -189,7 +188,7 @@
     "terminal.background": "#1F272E",
     "terminal.foreground": "#CBD6C9",
     "terminal.border": "#2A353D",
-    "terminalCursor.foreground": "#B9D1FA",
+    "terminalCursor.foreground": "#A9E0EB",
     "terminalCursor.background": "#1F272E",
     // other
     "textBlockQuote.background": "#2A353D",
@@ -303,7 +302,7 @@
       "name": "Control Flow",
       "scope": "keyword.control.flow",
       "settings": {
-        "foreground": "#DBA7CD"
+        "foreground": "#C97DAC"
       }
     },
     {
@@ -360,7 +359,7 @@
       "name": "Assignment",
       "scope": "keyword.operator.assignment",
       "settings": {
-        "foreground": "#EBAEB8"
+        "foreground": "#C28C95"
       }
     },
     {
@@ -395,7 +394,7 @@
       "name": "Literal",
       "scope": "constant.language, constant.numeric, support.constant, constant.character, constant.other.color, constant.other.symbol, constant.other.key",
       "settings": {
-        "foreground": "#B9D1FA"
+        "foreground": "#92ABD6"
       }
     },
     {
