@@ -26,6 +26,13 @@
         "uiTheme": "vs-dark",
         "path": "./themes/salt-water-taffy-color-theme.json"
       }
+    ],
+    "iconThemes": [
+      {
+        "id": "salt-water-taffy-icons",
+        "label": "Salt Water Taffy Icons",
+        "path": "./themes/salt-water-taffy-icon-theme.json"
+      }
     ]
   }
 }
