@@ -1,7 +1,7 @@
 {
   "name": "salt-water-taffy",
   "displayName": "Salt Water Taffy",
-  "description": "Ocean colors with a sweet tooth",
+  "description": "Seaside colors with a pastel finish",
   "version": "0.0.1",
   "publisher": "radiolevity",
   "repository": {
@@ -12,6 +12,7 @@
     "color": "#232A30",
     "theme": "dark"
   },
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.51.0"
   },

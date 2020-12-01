@@ -2,18 +2,18 @@
 
 ## base
 
-base03            #1E2429
-base02 (bg)       #282529
-base01            #2D353D
-base0             #4B3F4D
-base1             #546B75
-base2  (fg)       #CBD6C9
-base3             #F6FFF5
+base03            #192329
+base02 (bg)       #1F272E
+base01            #2A353D
+base0             #445057
+base1  (comment)  #78807D
+base2  (fg)       #C9D6C9
+base3             #F5FFF5
 
 ## highlight colors
 
-yellow            #8CC29E
-  light yellow      #AEEBC3
+yellow            #C28C95
+  light yellow      #EBAEB8
 red               #C97DAC
   light red         #DBA7CD
 magenta           #A189BD
@@ -22,7 +22,7 @@ blue              #92ABD6
   light blue        #B9D1FA
 cyan              #62BACC
   light cyan        #A9E0EB
-green             #7DBDA1
-  light green       #A9DEC3
+green             #7BC7AB
+  light green       #A9DECA
 
-alert             #CEFFA3
+alert             #BD4F7B
