@@ -121,7 +121,7 @@
     "panel.background": "#1F272E",
     "panel.border": "#2A353D",
     "panelTitle.activeBorder": "#1F272E",
-    "panelTitle.activeForeground": "#C28C95",
+    "panelTitle.activeForeground": "#A9E0EB",
     "panelTitle.inactiveForeground": "#445057",
     "peekView.border": "#2A353D",
     "peekViewEditor.background": "#2A353D",
@@ -165,7 +165,7 @@
     "tab.activeBackground": "#1F272E",
     "tab.activeForeground": "#A9E0EB",
     "tab.inactiveBackground": "#1F272E",
-    "tab.inactiveForeground": "#445057",
+    "tab.inactiveForeground": "#78807D",
     "tab.unfocusedActiveForeground": "#CBD6C9AA",
     "tab.unfocusedInactiveForeground": "#445057",
     // terminal.ansi
