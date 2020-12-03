@@ -16,7 +16,7 @@ Includes a recolored-to-match [Quill Icons](https://marketplace.visualstudio.com
 
 ## Recommendations
 
-**Font:** [Iosevka SS08](https://github.com/be5invis/Iosevka)
+**Typeface:** [Iosevka SS08](https://github.com/be5invis/Iosevka)
 
 **Other extensions:** [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui)
 

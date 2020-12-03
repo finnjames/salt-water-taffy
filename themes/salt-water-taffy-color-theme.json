@@ -285,7 +285,7 @@
     },
     {
       "name": "Function Call",
-      "scope": "variable.function, source meta.function-call entity.name.function, meta.class meta.group.braces.curly meta.function-call variable.function, meta.class meta.field.declaration meta.function-call entity.name.function, variable.function.constructor, meta.block meta.var.expr meta.function-call entity.name.function, support.function.console, meta.function-call support.function, meta.property.class variable.other.class, punctuation.definition.entity.css",
+      "scope": "variable.function, source meta.function-call entity.name.function, meta.class meta.group.braces.curly meta.function-call variable.function, meta.class meta.field.declaration meta.function-call entity.name.function, variable.function.constructor, meta.block meta.var.expr meta.function-call entity.name.function, support.function.console, meta.function-call support.function, meta.property.class variable.other.class, punctuation.definition.entity.css, meta.function-call.python",
       "settings": {
         "foreground": "#EBAEB8"
       }
@@ -295,7 +295,13 @@
       "scope": "entity.name.function, meta.class entity.name.class, meta.class entity.name.type.class, meta.class meta.function-call variable.function, source keyword.control.loop, storage.type.function.arrow, keyword.other.important",
       "settings": {
         "foreground": "#DBA7CD",
-        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Classes",
+      "scope": "entity.name.type.class, entity.name.type.js",
+      "settings": {
+        "fontStyle": "bold"
       }
     },
     {
@@ -488,18 +494,19 @@
       "scope": [
         "punctuation.definition.tag.html",
         "punctuation.definition.tag.begin.html",
-        "punctuation.definition.tag.end.html"
+        "punctuation.definition.tag.end.html",
+        "meta.tag.block.any.html",
       ],
       "settings": {
         "foreground": "#445057"
       }
     },
     {
-      "name": "Properties",
-      "scope": "variable.other.property, variable.other.object.property",
+      "name": "This",
+      "scope": "variable.language.this.js, variable.language.special.self.python",
       "settings": {
         "foreground": "#A9E0EB",
       }
-    }
+    },
   ]
 }
