@@ -26,3 +26,15 @@ green             #7BC7AB
   light green       #A9DECA
 
 alert             #BD4F7B
+
+
+## if you use bracket pair colorizer 2
+```json
+  "bracket-pair-colorizer-2.colors": [
+    "#C97DAC",
+    "#92ABD6",
+    "#A189BD",
+    "#62BACC"
+  ],
+  "bracket-pair-colorizer-2.unmatchedScopeColor": "#BD4F7B",
+```

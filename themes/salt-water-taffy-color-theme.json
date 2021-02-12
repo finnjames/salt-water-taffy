@@ -101,7 +101,7 @@
     // list
     "list.activeSelectionBackground": "#2A353D",
     "list.activeSelectionForeground": "#CBD6C9",
-    "list.focusBackground": "#2A353D",
+    "list.focusBackground": "#445057",
     "list.focusForeground": "#CBD6C9",
     "list.highlightForeground": "#92ABD6",
     "list.hoverBackground": "#2A353D",

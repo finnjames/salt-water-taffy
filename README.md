@@ -16,10 +16,7 @@ Includes a recolored-to-match [Quill Icons](https://marketplace.visualstudio.com
 
 ## Recommendations
 
-**Typeface:** [Iosevka SS08](https://github.com/be5invis/Iosevka)
-
-**Other extensions:** [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui)
-
+**Typeface:** [Pragmata Pro](https://fsd.it/shop/fonts/pragmatapro/) or [Iosevka SS08](https://github.com/be5invis/Iosevka)
 
 <!-- ## Colors
 

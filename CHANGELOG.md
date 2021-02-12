@@ -1,5 +1,6 @@
 # CHANGE LOG
 
+- 0.2.3 - fix input highlight lack-of-color
 - 0.2.2 - small syntax tweaks
 - 0.2.1 - small ui tweaks
 - 0.2.0 - included matching quill-icons based icon theme
