@@ -13,11 +13,3 @@ _Seaside colors with a pastel finish_
 Highlighting based on [Subliminal Next](https://marketplace.visualstudio.com/items?itemName=konradkeska.subliminal-next), UI structure based on my other theme, [Neofloss](https://marketplace.visualstudio.com/items?itemName=radiolevity.neofloss).
 
 Includes a recolored-to-match [Quill Icons](https://marketplace.visualstudio.com/items?itemName=cdonohue.quill-icons).
-
-## Recommendations
-
-**Typeface:** [Pragmata Pro](https://fsd.it/shop/fonts/pragmatapro/) or [Iosevka SS08](https://github.com/be5invis/Iosevka)
-
-<!-- ## Colors
-
-![](images/showcase.png) -->

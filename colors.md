@@ -2,12 +2,10 @@
 
 ## base
 
-base03            #1A2025
-base02 (bg)       #1F272E
-base01            #2A353D
-base0             #445057
-base1  (comment)  #78807D
-base2  (fg)       #C9D6C9
+base02 (bg)       #17242b
+base01            #243942
+base1  (comment)  #759596
+base2  (fg)       #CBD6C9
 base3             #F5FFF5
 
 ## highlight colors

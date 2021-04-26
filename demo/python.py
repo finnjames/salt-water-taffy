@@ -1,9 +1,8 @@
-
 from flask import Flask, jsonify, make_response, request
 import time
 
 
-class A:
+class Abstract:
 
     hello = "world"
 
@@ -14,7 +13,7 @@ class A:
 app = Flask('python-flask-seed')
 # hello world
 
-a = A()
+a = Abstract()
 
 a.hello = "lo"
 
